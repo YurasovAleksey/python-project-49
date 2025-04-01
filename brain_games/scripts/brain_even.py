@@ -1,6 +1,6 @@
-import prompt
 from random import randint
 
+import prompt
 
 DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 ROUNDS = 3
@@ -22,7 +22,8 @@ def main():
         if user_answer == right_answer:
             print('Correct!')
         else:
-            print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{right_answer}'.")
+            print(f"'{user_answer}' is wrong answer ;(."
+                  f"Correct answer was '{right_answer}'.")
             print(f"Let's try again, {user_name}!")
             return
     

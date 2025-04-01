@@ -7,3 +7,6 @@
 ## Project visualization
 ### Start game brain-even
 [![asciicast](https://asciinema.org/a/o1QvNPfHboarfntzMaNOvHMgc.svg)](https://asciinema.org/a/o1QvNPfHboarfntzMaNOvHMgc)
+
+### Start game brain-calc
+[![asciicast](https://asciinema.org/a/pzYhjXLGMVAHzjPQ0zDJ0VQdc.svg)](https://asciinema.org/a/pzYhjXLGMVAHzjPQ0zDJ0VQdc)

@@ -10,3 +10,6 @@
 
 ### Start game brain-calc
 [![asciicast](https://asciinema.org/a/pzYhjXLGMVAHzjPQ0zDJ0VQdc.svg)](https://asciinema.org/a/pzYhjXLGMVAHzjPQ0zDJ0VQdc)
+
+### Start game brain-gcd
+[![asciicast](https://asciinema.org/a/jupAXG89741IvElPl8cAq2q0S.svg)](https://asciinema.org/a/jupAXG89741IvElPl8cAq2q0S)

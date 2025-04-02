@@ -13,3 +13,6 @@
 
 ### Start game brain-gcd
 [![asciicast](https://asciinema.org/a/jupAXG89741IvElPl8cAq2q0S.svg)](https://asciinema.org/a/jupAXG89741IvElPl8cAq2q0S)
+
+### Start game brain-progression
+[![asciicast](https://asciinema.org/a/eM9oHG8kNZD1sJJMK9mAYzdrP.svg)](https://asciinema.org/a/eM9oHG8kNZD1sJJMK9mAYzdrP)

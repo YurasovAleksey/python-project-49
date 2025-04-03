@@ -1,5 +1,7 @@
 [project]
-authors = "YurasovAleksey"
+authors = [
+    {name = "Yurasov Aleksey", github = "https://github.com/YurasovAleksey"},
+]
 name = "hexlet-code"
 version = "0.1.0"
 description = "This is the first project as part of a hexlet learning experience, that includes five brain-training games"

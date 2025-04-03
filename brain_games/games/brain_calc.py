@@ -4,15 +4,14 @@ DESCRIPTION = 'What is the result of the expression?'
 
 
 def computing(num1, num2, operator):
-    match operator:
-        case '+':
-            return num1 + num2
-        case '-':
-            return num1 - num2
-        case '*':
-            return num1 * num2
-        case _:
-            raise ValueError(f'Operator: {operator} is wrong!')
+    if operator == '+':
+        return num1 + num2
+    elif operator == '-':
+        return num1 - num2
+    elif operator == '*':
+        return num1 * num2
+    else:
+        raise ValueError(f'Operator: {operator} is wrong!')
 
 
 def get_data():

@@ -14,6 +14,10 @@
 * Determining the greatest common divisor.
 * Determining a prime number.
 
+---
+## Requirements
+* Python >= 3.12.3
+
 
 ## Project visualization
 ### Start game brain-even

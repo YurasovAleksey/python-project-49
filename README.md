@@ -15,8 +15,13 @@
 * Determining a prime number.
 
 ---
-## Requirements
+## Minimum requirements
 * Python >= 3.12.3
+
+---
+## Setup
+1. git clone git@github.com:YurasovAleksey/python-project-49.git
+2. make install
 
 
 ## Project visualization

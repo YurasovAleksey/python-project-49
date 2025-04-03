@@ -16,3 +16,6 @@
 
 ### Start game brain-progression
 [![asciicast](https://asciinema.org/a/eM9oHG8kNZD1sJJMK9mAYzdrP.svg)](https://asciinema.org/a/eM9oHG8kNZD1sJJMK9mAYzdrP)
+
+### Start game brain-prime
+[![asciicast](https://asciinema.org/a/dynKXm2RNMtJZPrL8L0PUaaPf.svg)](https://asciinema.org/a/dynKXm2RNMtJZPrL8L0PUaaPf)
